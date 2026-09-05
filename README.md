@@ -8,7 +8,7 @@ I build end-to-end web applications and train custom machine learning models. My
 
 ### Core Expertise
 
-- **AI & Machine Learning:** Training models with PyTorch, implementing supervised and unsupervised learning algorithms, and integrating state-of-the-art LLMs (Llama 3.3, Groq API) into software workflows.
+- **AI & Machine Learning:** Training models with PyTorch, implementing supervised and unsupervised learning algorithms, and integrating state-of-the-art LLMs into software workflows.
 - **Backend Engineering:** Architecting scalable RESTful services using Java 17, Spring Boot 3.2, Spring Security (Stateless JWT), and relational databases (MySQL, H2).
 - **Frontend Development:** Building component-driven user interfaces with React 18, TypeScript, Vite, and Tailwind CSS v4.
 
