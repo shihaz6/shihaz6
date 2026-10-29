@@ -1,37 +1,54 @@
 <div align="center">
-  <h1>Hi, I'm Shihaz 👋</h1>
-  <h3>Aspiring Inference Engineer</h3>
-  <p><em>“The difference is... I'm not mid.”</em></p>
+
+# Shihaz Shaheem
+
+**Aspiring Inference Engineer** · AI Systems · Backend · LLM Infrastructure
+
+BSc (Hons) IT, specialising in AI @ SLIIT · Founder of AlchemyX Global · Colombo, Sri Lanka
+
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.hackerrank.com/profile/shihaz6"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
+<a href="mailto:theshihaz6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
 </div>
 
-<div align="center">
-  <a href="https://www.hackerrank.com/shihaz6" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-shihaz6-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://your-website-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0A84FF?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Website" />
-  </a>
-</div>
+---
 
-<hr>
+## About
 
-### About Me
-I’m an aspiring engineer focused on inference systems, ML workflows, and problem-solving with a strong interest in building practical AI-driven applications.
+I build retrieval and agent systems, Spring Boot backends, and AI that runs on real hardware. My focus sits between research and engineering: shipping work that is both rigorous and refined. I'm steering toward **inference**: making models fast, cheap and reliable to serve.
 
-### Skills
-- Python
-- AI / ML
-- Data Structures & Algorithms
-- Problem Solving
-- Model Inference & Optimization
+## Now
 
-### Connect
-- GitHub: [@shihaz6](https://github.com/shihaz6)
-- HackerRank: [@shihaz6](https://www.hackerrank.com/shihaz6)
-- Website: [Portfolio](https://your-website-link.com)
+- Building **AlchemyX Global**, AI systems that put retrieval, agents and automation to work in real businesses
+- Deepening my **LLM serving and optimization** skills (batching, quantization, latency profiling)
+- Studying AI at SLIIT, Dean's List, Year 1 Semester 1
 
-<hr>
+## Selected work
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihaz6&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| **AlchemAI** | Agentic RAG with hybrid retrieval (Chroma + BM25), reranking, conflict adjudication and validated citations | Python, Chroma, Voyage AI, OpenRouter, Streamlit |
+| **ParkPulse** | Real-time parking platform with JWT auth, QR passes and an AI assistant. *Certificate of Excellence, SLIIT* | Spring Boot, React, TypeScript, MySQL |
+| **Rice Leaf Disease CNN** | Leakage-audited image classifier with Grad-CAM explanations | TensorFlow, Keras |
+| **Voice POS Order Entry** | Spoken orders to POS, reranker-verified | Python, browser extension |
+| **Voyara** | Team-built booking platform, which I led | Backend, AI |
+| **Home Automation** | ESP32 to cloud dashboard with Telegram alerts | ESP32, MQTT |
+
+## Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Let's talk
+
+Internships, collaborations, or a question about any project: **theshihaz6@gmail.com**. I usually reply within a couple of days.
+
+<sub>*"The difference is... I'm not mid."*</sub>
