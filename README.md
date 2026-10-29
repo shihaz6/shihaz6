@@ -6,10 +6,10 @@
 
 BSc (Hons) IT, specialising in AI @ SLIIT · Founder of AlchemyX Global · Colombo, Sri Lanka
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.hackerrank.com/profile/shihaz6"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
-<a href="mailto:theshihaz6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://shihaz.dev/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/shihaz-shaheem-024679242/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.hackerrank.com/profile/theshihaz6">HackerRank</a> &nbsp;·&nbsp;
+<a href="mailto:theshihaz6@gmail.com">Email</a>
 
 </div>
 
